@@ -1,0 +1,30 @@
+Waktu Pengambilan Data: 1693280666.5484738
+FPS pada waktu itu: inf
+
+Waktu Pengambilan Data: 1693280670.5686612
+FPS pada waktu itu: 0.27
+
+Waktu Pengambilan Data: 1693280671.5741959
+FPS pada waktu itu: 26.49
+
+Waktu Pengambilan Data: 1693280672.576605
+FPS pada waktu itu: 27.27
+
+Waktu Pengambilan Data: 1693280673.581336
+FPS pada waktu itu: 27.18
+
+Waktu Pengambilan Data: 1693280674.6085422
+FPS pada waktu itu: 24.77
+
+Waktu Pengambilan Data: 1693280675.6752496
+FPS pada waktu itu: 27.08
+
+Waktu Pengambilan Data: 1693280676.698287
+FPS pada waktu itu: 26.99
+
+Waktu Pengambilan Data: 1693280677.7372189
+FPS pada waktu itu: 26.73
+
+Waktu Pengambilan Data: 1693280678.7420774
+FPS pada waktu itu: 26.80
+
